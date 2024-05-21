@@ -161,4 +161,4 @@
 
 ## E-R 다이어그램
 
-<img src='./image/erd.png' width='50%' />
+<img src='./image/erd.png' width='80%' />
